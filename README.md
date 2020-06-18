@@ -112,7 +112,7 @@ The csv files for each Machine ID including the anomaly scores will be stored.
 A simple Convolutional AE was proposed. The network architecture is shown in the following figure. 
 * [Convolutional AE](https://github.com/APILASTRI/DCASE_Task2_UMINHO/tree/master/Convolutional%20AE) - Folder containing the implementation.
 
-<img src="https://user-images.githubusercontent.com/62994395/84875963-94616480-b07e-11ea-9ac1-fe62baa35201.png" width="520" height="250" />
+<img src="https://user-images.githubusercontent.com/62994395/84875963-94616480-b07e-11ea-9ac1-fe62baa35201.png" width="520" height="280" />
 
 
 #### Description

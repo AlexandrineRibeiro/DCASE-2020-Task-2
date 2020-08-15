@@ -14,6 +14,7 @@ The competition rules are [here](http://dcase.community/challenge2020/task-unsup
 - [Convolutional Autoencoder](#convolutional-autoencoder)
 - [Results](#chart_with_upwards_trend-results)
 - [References](#page_with_curl-references)
+- [Exploratory data analysis notebook](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2/blob/master/data_analysis.ipynb)
 
 ## Libraries
 - Keras                   
